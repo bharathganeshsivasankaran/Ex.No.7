@@ -109,7 +109,7 @@ The final transcript and memory data are generated and stored.
 ## Task Manager
 ```
 User: Remind me to call mom at 6 PM  
-Assistant: ✅ Got it — I added "Call mom" to your tasks. Due today at 6:00 PM. Would you like a reminder before it's due? (Yes/No)
+Assistant: Got it — I added "Call mom" to your tasks. Due today at 6:00 PM. Would you like a reminder before it's due? (Yes/No)
 ```
 
 ## Smart Scheduler
@@ -168,12 +168,5 @@ Tone changes immediately affect all future responses.
 
 
 # Result: 
-The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
+The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. 
 
--> Understand how to tailor LLM prompts to real-life applications.
-
--> Foster creativity by designing features suited to their personal or academic lives.
-
--> Learn prompt engineering techniques for optimal interaction with AI tools.
-
--> Experience the versatility and utility of generative AI in solving everyday problems.
